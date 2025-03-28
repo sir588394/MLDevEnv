@@ -1,2 +1,2 @@
 # MLDevEnv
-Mouse less development environment using Arch Linux
+Mouseless development environment using Arch Linux
